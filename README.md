@@ -34,7 +34,7 @@ Bash
 mvn clean install
 mvn spring-boot:run
 
-2. rontend Setup (ReactJS)
+2. frontend Setup (ReactJS)
 Open a new terminal and navigate to the frontend directory:
 
 Bash
