@@ -1,4 +1,5 @@
 # Spring Boot & ReactJS Complete CRUD Application
+<img width="1360" height="768" alt="image" src="https://github.com/user-attachments/assets/ecfbe70a-805a-40ea-92f3-b00af6d47db5" />
 
 A full-stack CRUD (Create, Read, Update, Delete) application built with Java Spring Boot for the backend and ReactJS for the frontend.
 
