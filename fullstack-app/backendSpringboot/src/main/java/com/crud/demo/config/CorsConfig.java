@@ -1,4 +1,4 @@
-package com.crud.demo.config;
+package com.crud.backendSpringboot.config;
 
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;

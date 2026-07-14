@@ -1,7 +1,7 @@
-package com.crud.demo.service;
+package com.crud.backendSpringboot.service;
 
-import com.crud.demo.entity.Book;
-import com.crud.demo.repository.BookRepository;
+import com.crud.backendSpringboot.entity.Book;
+import com.crud.backendSpringboot.repository.BookRepository;
 import org.springframework.stereotype.Service;
 import org.springframework.transaction.annotation.Transactional;
 
