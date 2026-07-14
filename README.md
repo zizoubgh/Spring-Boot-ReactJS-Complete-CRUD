@@ -17,7 +17,7 @@ Before running the project, make sure you have the following installed:
 ## 🚀 Getting Started  
 
 Follow these steps to set up and run the application locally.
-1.  rontend Setup (spring boot)
+1.  backend Setup (spring boot)
  cd backend
 Configure your database settings in src/main/resources/application.properties (e.g., update your MySQL/PostgreSQL username and password):
 
