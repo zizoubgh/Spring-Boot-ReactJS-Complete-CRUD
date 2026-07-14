@@ -12,9 +12,9 @@
     </parent>
 
     <groupId>com.crud</groupId>
-    <artifactId>backend-springboot</artifactId>
+    <artifactId>backendSpringboot</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>backend-springboot</name>
+    <name>backendSpringboot</name>
     <description>backend-springboot project for Spring Boot and ReactJS</description>
 
     <properties>
