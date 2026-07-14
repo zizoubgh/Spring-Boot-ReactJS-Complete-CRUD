@@ -1,4 +1,4 @@
-package com.crud.backendSpringboot.entity;
+package com.crud.demo.entity;
 
 public enum BookType {
     EBOOK,

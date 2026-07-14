@@ -1,6 +1,6 @@
-package com.crud.backendSpringboot.repository;
+package com.crud.demo.repository;
 
-import com.crud.backendSpringboot.entity.Book;
+import com.crud.demo.entity.Book;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
 

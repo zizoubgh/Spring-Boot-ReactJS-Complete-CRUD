@@ -1,4 +1,4 @@
-package com.crud.backendSpringboot;
+package com.crud.demo;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
