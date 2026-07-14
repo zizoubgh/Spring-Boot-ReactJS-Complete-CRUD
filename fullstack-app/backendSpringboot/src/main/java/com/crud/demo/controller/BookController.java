@@ -1,8 +1,8 @@
-package com.crud.demo.controller;
+package com.crud.backendSpringboot.controller;
 
-import com.crud.demo.dto.BookDTO;
-import com.crud.demo.entity.Book;
-import com.crud.demo.service.BookService; // أو الـ Repository مباشرة حسب هيكلة مشروعك
+import com.crud.backendSpringboot.dto.BookDTO;
+import com.crud.backendSpringboot.entity.Book;
+import com.crud.backendSpringboot.service.BookService; // أو الـ Repository مباشرة حسب هيكلة مشروعك
 
 import java.util.List;
 

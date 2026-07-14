@@ -1,5 +1,5 @@
-package com.crud.demo.dto;
-import com.crud.demo.entity.BookType;
+package com.crud.backendSpringboot.dto;
+import com.crud.backendSpringboot.entity.BookType;
 import lombok.Data;
 import java.time.LocalDate;
 
